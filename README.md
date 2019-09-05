@@ -13,6 +13,6 @@ $ cd .. && catkin_make
 
 $ source ./devel/setup.bash
 
-$ roslaunch urdf_tutorial display.launch model:='./src/rarm_description/urdf/arm_description.urdf'
+$ roslaunch urdf_tutorial display.launch model:='./src/arm_description/urdf/arm_description.urdf'
 
 
