@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>rarm_description</name>
+  <name>arm_description</name>
   <version>0.0.0</version>
   <description>The rarm_description package</description>
 
